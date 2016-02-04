@@ -175,7 +175,8 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+# og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+og_image:							'https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg'
 og_locale:                          'en_EN'
 og_type:                            'website'
 
