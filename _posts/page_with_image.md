@@ -1,13 +1,13 @@
 ---
 layout: page
 subheadline: ""
-title: "First post"
+title: First post
 teaser: ""
-categories:
+categories: 
   - null
-tags:
+tags: 
   - null
-image:
+image: 
   title: null
   thumb: null
   homepage: null
@@ -19,7 +19,8 @@ published: true
 
 
 
-!["murray"](http://fillmurray.com/200/300)
+
+![]({{site.baseurl}}/https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg)
 
  [1]: #
  [2]: #
