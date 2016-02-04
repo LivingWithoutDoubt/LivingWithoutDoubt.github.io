@@ -1,13 +1,13 @@
 ---
 layout: page
 subheadline: ""
-title: ""
+title: "First post"
 teaser: ""
-categories: 
+categories:
   - null
-tags: 
+tags:
   - null
-image: 
+image:
   title: null
   thumb: null
   homepage: null
