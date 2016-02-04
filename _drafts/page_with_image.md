@@ -1,30 +1,26 @@
 ---
 layout: page
-#
-# Content
-#
 subheadline: ""
 title: ""
 teaser: ""
-categories:
-  - 
-tags:
-  - 
-#
-# Styling
-#
-image:
-    title:
-    thumb:
-    homepage:
-    caption:
-    caption_url:
+categories: 
+  - null
+tags: 
+  - null
+image: 
+  title: null
+  thumb: null
+  homepage: null
+  caption: null
+  caption_url: null
+published: true
 ---
 
 
 
 
- [1]: #
+
+ [1]: #http://fillmurray.com/200/300
  [2]: #
  [3]: #
  [4]: #
