@@ -42,7 +42,8 @@ urlimg: 'https://s3.amazonaws.com/melinda-blog/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+#logo: "logo.png"
+logo: 'https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg'
 
 
 #       ____              _             __  _
