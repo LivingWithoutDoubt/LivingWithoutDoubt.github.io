@@ -21,5 +21,5 @@ permalink: null
 published: true
 ---
 
-![]({{site.baseurl}}/https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg)
-{% include gallery %}
+
+{% include gallery %}![]({{site.baseurl}}/https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg)
