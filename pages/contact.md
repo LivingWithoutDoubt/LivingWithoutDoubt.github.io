@@ -12,5 +12,7 @@ If you need a fabulous contact form for your website, I suggest you use [Wufoo][
 
 :-)
 
+This is fine!
+
 
  [1]: http://www.wufoo.com/
