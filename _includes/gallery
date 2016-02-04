@@ -10,7 +10,6 @@
 *
 *   gallery:
 *       - image_url: gallery-image.jpg
-![]({{site.baseurl}}/https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg)
 *
 *   5. Give your image a caption – works without captions, too.
 *
@@ -20,7 +19,7 @@
 *
 *   6. Add the include whereever you want in your content like this:
 *
-*   {% include gallery %}
+*   {% include gallery %}![]({{site.baseurl}}/https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg)
 *
 *   Check out the example page › http://phlow.github.io/feeling-responsive/design/gallery/
 *
