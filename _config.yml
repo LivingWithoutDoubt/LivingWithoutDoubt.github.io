@@ -7,9 +7,11 @@
 #   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
 #                                                 /____/
 #
+highlighter: rouge
+
+
 # Title of your website
 title: 'Calming the Storm'
-
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: Getting through every day'
 
@@ -38,7 +40,7 @@ improve_content: https://github.com/minda325/CalmingTheStorm/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://s3.amazonaws.com/melinda-blog/images'
+urlimg: 'https://s3.amazonaws.com/melinda-blog/images/'
 
 
 # Logo size is 600x80 pixels
