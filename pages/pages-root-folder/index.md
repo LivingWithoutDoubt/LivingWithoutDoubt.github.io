@@ -6,8 +6,9 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
+#  <!-- image_fullwidth: header_unsplash_12.jpg -->
+  image_fullwidth: FB_IMG_1454878233202.jpg
+widget:
   title: "Blog & Portfolio"
   url: 'blog/'
   image: widget-1-302x182.jpg
