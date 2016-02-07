@@ -11,9 +11,9 @@ highlighter: rouge
 
 
 # Title of your website
-title: 'Calming the Storm'
+title: 'Living Without Doubt'
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: Getting through every day'
+slogan: ''
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: ''
@@ -44,8 +44,9 @@ urlimg: 'https://s3.amazonaws.com/melinda-blog/images/'
 
 
 # Logo size is 600x80 pixels
-#logo: "logo.png"
-logo: 'https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg'
+# logo: "logo.png"
+# logo: 'IMG_20150926_104307.jpg'
+logo: 'FB_IMG_1454878233202.jpg'
 
 
 #       ____              _             __  _
@@ -58,6 +59,7 @@ logo: 'https://s3.amazonaws.com/melinda-blog/images/IMG_20150926_104307.jpg'
 gems:
     - jekyll-gist
     - jekyll-paginate
+#    - wdm, '~> 0.1.0' if Gem.win_platform?
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
