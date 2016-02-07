@@ -8,7 +8,11 @@ layout: frontpage
 header:
 #  <!-- image_fullwidth: header_unsplash_12.jpg -->
   image_fullwidth: FB_IMG_1454878233202.jpg
+<<<<<<< HEAD
 widget1:
+=======
+widget:
+>>>>>>> b876029f46b3bac534b3a2ff9ac5b58e653ec9cf
   title: "Blog & Portfolio"
   url: 'blog/'
   image: widget-1-302x182.jpg
@@ -33,10 +37,17 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
+<<<<<<< HEAD
 #callforaction:
 #  url: https://tinyletter.com/feeling-responsive
 #  text: Inform me about new updates and features ›
 #  style: alert
+=======
+callforaction:
+  url: https://tinyletter.com/feeling-responsive
+  text: Inform me about new updates and features ›
+  style: alert
+>>>>>>> b876029f46b3bac534b3a2ff9ac5b58e653ec9cf
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight

@@ -23,4 +23,8 @@ sass:
   sourcemap: true
 
 # Disable when not in production
+<<<<<<< HEAD
 google_analytics_tracking_id:
+=======
+# google_analytics_tracking_id:
+>>>>>>> b876029f46b3bac534b3a2ff9ac5b58e653ec9cf
