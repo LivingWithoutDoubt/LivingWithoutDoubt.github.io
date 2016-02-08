@@ -12,3 +12,9 @@ _site/
 
 # added by GitSavvy
 *.jekyll-metadata
+
+# added by GitSavvy
+/.jekyll-metadata
+
+# added by GitSavvy
+/.jekyll-metadata
