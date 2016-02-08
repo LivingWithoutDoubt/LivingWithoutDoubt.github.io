@@ -6,9 +6,9 @@
 #
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 phlow: # replace this with your info
-  name: "Phlow"
+  name: "Melinda"
   siterole: "webmaster, developer, copywriter, designer"
-  uri: http://phlow.de/
+  uri: "http://minda325.github.io/LivingWithoutDoubt/"
   email:
-  twitter: "@phlow"
+  twitter: 
 # you can add more authors here

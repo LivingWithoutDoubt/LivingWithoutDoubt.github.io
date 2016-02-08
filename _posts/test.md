@@ -1,13 +1,13 @@
 ---
 layout: page
 subheadline: ""
-title: ""
+title: "First post"
 teaser: ""
-categories: 
+categories:
   - null
-tags: 
+tags:
   - null
-image: 
+image:
   title: null
   thumb: null
   homepage: null
@@ -15,18 +15,6 @@ image:
   caption_url: null
 published: true
 ---
+This is a new page.
 
-
-
-
-
- [1]: #http://fillmurray.com/200/300
- [2]: #
- [3]: #
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+# This is a title
