@@ -23,7 +23,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: Melinda Roberson
+author: Melinda
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -59,6 +59,7 @@ logo: 'LWD_logo.jpg'
 gems:
     - jekyll-gist
     - jekyll-paginate
+    # - jekyll-feed
 #    - wdm, '~> 0.1.0' if Gem.win_platform?
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
