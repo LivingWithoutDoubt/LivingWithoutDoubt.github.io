@@ -1,20 +1,2 @@
-_site/
-.sass-cache/
-
-# added by GitSavvy
-/.jekyll-metadata
-
-# added by GitSavvy
-/.jekyll-metadata
-
-# added by GitSavvy
-.jekyll-metadata
-
-# added by GitSavvy
-*.jekyll-metadata
-
-# added by GitSavvy
-/.jekyll-metadata
-
-# added by GitSavvy
-/.jekyll-metadata
+_config.yml.rej
+.gitignore.rej
