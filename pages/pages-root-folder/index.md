@@ -11,7 +11,7 @@ header:
 widget1:
   title: "Blog & Portfolio"
   url: '/blog/'
-  image: widget-1-302x182.jpg
+  image: header_roadmap_3.jpg
   text: ''
 widget2:
   title: "Why You Rock"
