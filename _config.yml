@@ -40,8 +40,8 @@ improve_content: http:/LivingWithOutDobt.github.io/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http:/LivingWithOutDobt.github.io/images/'
-
+# urlimg: 'http:/LivingWithOutDobt.github.io/images/'
+urlimg:  'https://melinda-blog.s3.amazonaws.com/images/'
 
 # Logo size is 600x80 pixels
 # logo: "logo.png"
