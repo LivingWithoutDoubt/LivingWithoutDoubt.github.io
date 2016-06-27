@@ -23,10 +23,10 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+ - name: Facebook
+   url: https://www.facebook.com/GreenIvysHome/
+   class: icon-facebook
+   title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
