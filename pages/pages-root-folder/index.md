@@ -15,9 +15,8 @@ widget1:
   text: ''
 widget2:
   title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,... and generally awesome'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  url: ''
+  text: '<img src="https://s3.amazonaws.com/melinda-blog/images/FB_IMG_1454878233202.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Photo Gallery"
   url: '/photos/'
