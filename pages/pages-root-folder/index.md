@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Photo Gallery"
   url: '/photos/'
-  image: widget-github-303x182.jpg
+  image: 20160317_134754.jpg
   text: 'Awesome pictures.'
 #
 # Use the call for action to show a button on the frontpage
