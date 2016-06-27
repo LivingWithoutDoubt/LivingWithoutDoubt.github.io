@@ -14,7 +14,7 @@ widget1:
   image: widget-1-302x182.jpg
   text: ''
 widget2:
-  title: "Why use this theme?"
+  title: "Why You Rock"
   url: ''
   text: '<img src="https://s3.amazonaws.com/melinda-blog/images/FB_IMG_1454878233202.jpg" width="302" height="182" alt=""/></a>'
 widget3:

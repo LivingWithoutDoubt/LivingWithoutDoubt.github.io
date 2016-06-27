@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why Do I need a subheadline"
+title: "About Me"
+#subheadline: "Why Do I need a subheadline"
 teaser: ""
 permalink: "/info/"
 header:
