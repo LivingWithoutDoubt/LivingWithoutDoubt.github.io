@@ -30,5 +30,4 @@ permalink: /index.html
 #
 homepage: true
 ---
-
 Front Page
