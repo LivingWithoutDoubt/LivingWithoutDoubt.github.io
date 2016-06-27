@@ -1,0 +1,7 @@
+---
+layout: "post"
+title: "New Post"
+date: "2016-06-27 13:24"
+---
+
+This is a new post
