@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: post
 title: “Be Nice and I Will Play With You"
 date: "2016-06-27 14:17"
 ---
